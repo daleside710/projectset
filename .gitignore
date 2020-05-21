@@ -1,0 +1,10 @@
+/node_modules/
+/vendor/
+/storage/*.key
+/.idea/
+.DS_Store
+.svn
+*.iml
+*.xml
+.env_org
+.env

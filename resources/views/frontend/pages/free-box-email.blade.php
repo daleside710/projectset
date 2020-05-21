@@ -1,0 +1,4 @@
+<p>
+    Hi {{ $name }},
+</p>
+<p> {{ $content }} </p>
