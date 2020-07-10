@@ -51,3 +51,8 @@ Previous Works:
 - http://www.ezdocpro.com
 - https://gohire.io
 - https://www.viacharacter.org
+
+Skype: jnx_teamwork@outlook.com
+Email: fantasy_dev419@outlook.com
+I want to work safely using skype.
+Will wait your connection.
